@@ -1,1 +1,1 @@
-[{"Name":"Dylan Bird","Photo":"","Scores":[1,2,3,4,5,1,2,3,4,5]},{"Name":"Mason Dog","Photo":"","Scores":[5,5,5,5,5,5,5,5,5,5]}]
+[{"Name":"Dylan Bird","Photo":"https://raw.githubusercontent.com/meganpel/friend-finder/master/images/Dylan.jpg","Scores":[1,2,3,4,5,1,2,3,4,5]},{"Name":"Mason Dog","Photo":"https://raw.githubusercontent.com/meganpel/friend-finder/master/images/Mason.jpg","Scores":[5,5,5,5,5,5,5,5,5,5]}]
